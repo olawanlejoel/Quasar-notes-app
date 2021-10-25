@@ -1,6 +1,6 @@
 # Notewrite (notewrite)
 
-A simple app that allows users store notes.
+A simple app that allows users store notes. Read this [article](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/), to understand how to build this from scratch.
 
 ## Install the dependencies
 ```bash
